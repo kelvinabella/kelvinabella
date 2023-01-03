@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kelvinabella/kelvinabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Kelvin, my friends call me kelvs. I'm currently based in Abu Dhabi, UAE.
+
+I like building things on the web using JavaScript and React. I'm self-directed and motivated full-stack software developer experienced in working effectively in dynamic environments.
+
+I am hardworking software development professional driven to increase team effectiveness. Highly organized, professional, resourceful and flexible with eagerness to learn new technologies and tools.
+
+
+📫 How to reach me:
+
+[![Website](https://img.shields.io/static/v1?label=kelvinabella&message=.com)](https://kelvinabella.com)
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinabella&layout=compact&hide_border=true)](https://github.com/kelvinabella) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinabella&hide_border=true)](https://github.com/kelvinabella) |
 | ------------- | ------------- |
