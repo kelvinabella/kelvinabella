@@ -29,6 +29,6 @@ I am hardworking software development professional driven to increase team effec
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2320](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2320) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. ❗️ Opened issue [#6346](https://github.com/EddieHubCommunity/support/issues/6346) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#3401](https://github.com/mantinedev/mantine/pull/3401) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+2. 💪 Opened PR [#2320](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2320) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
